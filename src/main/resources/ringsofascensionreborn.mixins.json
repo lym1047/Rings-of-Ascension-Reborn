@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.ming.ringsofascension_reborn.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "ItemRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
