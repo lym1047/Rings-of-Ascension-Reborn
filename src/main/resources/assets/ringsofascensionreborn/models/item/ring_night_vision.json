@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ringsofascensionreborn:item/ring_night_vision"
+  }
+}
